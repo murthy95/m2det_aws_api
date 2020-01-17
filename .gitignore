@@ -1,9 +1,9 @@
-__pychache__/
-data/__pychache__/
-configs/__pycahce__/
-layers/__pycache__/
-utils/__pycache__/
-utils/pycocotools/__pycache__/
+__pycache__/*
+data/__pycache__/*
+configs/__pycache__/*
+layers/__pycache__/*
+utils/__pycache__/*
+utils/pycocotools/__pycache__/*
 *.pyc
 
 # c extensions 
